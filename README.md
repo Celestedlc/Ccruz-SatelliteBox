@@ -30,3 +30,4 @@ It consists on a ecosystem of three members (Two self contained, and one working
 
 
 This cyberdeck is being developed following the ECSS E-ST-40C standards and it is a complete WIP, if you decide to try and make your own, you are doing it under your responsibility as the project is in a very primitive state and could change substantially while developing.
+
