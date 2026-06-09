@@ -19,7 +19,7 @@ It consists on a ecosystem of three members (Two self contained, and one working
 
 ## Workflow
 
-- Capable (external) Workstation simulating the environment with SIMULUS
+- Capable (external) Workstation simulating the environment
 - Main board (Raspberry Pi Zero 2W) handling the telemetry and emulating the satellite sensors
 - Raspberry Pi Pico 2 running RTEMS over it's RISC-V modules working as the satellite
 
